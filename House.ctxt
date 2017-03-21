@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=houseType\ houseCost
+comment0.target=House(java.lang.String,\ int)
+comment1.params=
+comment1.target=int\ getHouseCost()
+comment2.params=
+comment2.target=java.lang.String\ getHouseType()
+numComments=3

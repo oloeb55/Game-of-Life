@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=requiresCollege\ salary\ title
+comment0.target=Job(boolean,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getSalary()
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment3.params=
+comment3.target=boolean\ getRequiresCollege()
+numComments=4
